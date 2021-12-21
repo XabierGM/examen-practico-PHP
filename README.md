@@ -27,5 +27,9 @@ Os iconos son dunha páxina online para crear iconos personalizados: IconsFlow. F
 ### Fonte
 A fonte principal e Poppins, e utilicei outra da mesma familia (Helvética) para algúns títulos e titulares.
 
+##Accesibilidade
+
+A páxina é responsiva e se reposiciona automáticamente cando se visualiza nunha pantalla máis pequena. O menú principal da cabeceira trasfórmase nun menú hamburguesa cando se entra usando un móvil.
+
 
 
